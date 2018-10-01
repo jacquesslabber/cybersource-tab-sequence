@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+## HTML Example
+* You can open `./RenderedDom.html` in a browser to see what the current tabbing behaviour is. Otherwise you can checkout the Angular project.
+
 ## Project setup and requirements
 * Install Node.js - https://nodejs.org/en/download/
 * Install Angular 5 - Simply run `npm install -g @angular/cli` in a terminal after Node.js has been installed.
